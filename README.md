@@ -22,5 +22,5 @@
 | :--- | :--- |
 | **Languages** | Python, SQL |
 | **Orchestration & Compute** | Apache Airflow, Apache Spark |
-| **Platform & Cloud** | Linux, Google Cloud Platform (GCP) |
+| **Platform & Cloud** | Linux, Docker, Google Cloud Platform |
 | **Concepts** | Data Lakehouse Architecture |
