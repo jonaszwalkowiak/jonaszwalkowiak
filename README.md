@@ -6,9 +6,9 @@
 
   Airflow DAGs | Google Cloud Storage
 
-- [**nyc-fhv [in progress...]**](https://github.com/jonaszwalkowiak/nyc-fhv)
+- [**nyc-citi-bike-gbfs [in progress...]**](https://github.com/jonaszwalkowiak/nyc-citi-bike-gbfs)
 
-  [Data Pipeline] New York City - "For Hire Vehicles"
+  [Data Pipeline] New York City - "Citi Bike"
 
 ## Environments & Setup
 
