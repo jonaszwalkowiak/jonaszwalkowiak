@@ -26,3 +26,5 @@
 - **Orchestration:** `Airflow`, `dbt`
 - **Platform:** `Linux`, `Docker`, `GCP`
 - **Architecture:** `Data Lakehouse`
+
+  Future: PySpark, GoLang
