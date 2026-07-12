@@ -25,7 +25,7 @@ QA Engineer transitioning into Data Quality/Engineering.
 
   Spark 4 | Google Cloud Storage | Docker Compose
 
-## Tech Stack
+## Tech Stack (Modern Data Stack)
 
 - **Proficient:** `SQL`, `dbt`, `Snowflake`, `Airflow`
 - **Familiar with:** `Python`, `Git`, `Docker`, `Linux`, `Google Cloud Platform`
