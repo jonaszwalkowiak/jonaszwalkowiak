@@ -1,5 +1,5 @@
 # Jonasz Walkowiak
-QA Engineer transitioning into Data Quality/Engineering.
+QA Engineer transitioning into Data Quality/Engineering. Learning hands-on with the support of Claude Code.
 
 ## Projects
 
@@ -27,6 +27,6 @@ QA Engineer transitioning into Data Quality/Engineering.
 
 ## Tech Stack (Modern Data Stack)
 
-- **Proficient:** `SQL`, `dbt`, `Snowflake`, `Airflow`
-- **Familiar with:** `Python`, `Git`, `Docker`, `Linux`, `Google Cloud Platform`
-- **Concepts:** `ELT`, `Data Modeling`, `Data Quality`, `Data Warehouse`
+- **Proficient:** `SQL`, `dbt`, `Airflow`
+- **Familiar with:** `Python`, `Git`, `Docker`, `Linux`, `Google Cloud Platform`, `Snowflake`, `Claude Code`
+- **Concepts:** `ETL/ELT`, `Data Modeling`, `Data Quality`, `Data Warehouse`
